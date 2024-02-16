@@ -34,7 +34,7 @@ Seaborn
 scikit-learn
 
 Contributors
-        M.Tejaswi\n
+        M.Tejaswi
         M.Sai Divya Sri
         N.Samhitha
         Navya Sri Machagiri
